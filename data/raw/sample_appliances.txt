@@ -1,5 +1,29 @@
-The washing machine is leaking water from the bottom. Possible causes include a damaged door seal, a loose drain hose, or a clogged filter.
-The refrigerator is not cooling properly. Common issues are dirty condenser coils, a faulty thermostat, or blocked air vents inside the fridge.
-The oven does not heat up when turned on. This can be caused by a broken heating element, a faulty temperature sensor, or an issue with the power supply.
-The dishwasher leaves dishes dirty. This may be due to a clogged spray arm, low water pressure, or using too little detergent.
-The dryer is running but clothes stay wet. Possible reasons include a blocked vent, a broken heating element, or overloading the machine.
+The washing machine is leaking water from the bottom. Possible causes include a damaged door seal, a loose drain hose, or a clogged filter. To fix this, first check the door seal for tears or gaps and replace if damaged. Then inspect the drain hose connection and tighten if loose. Finally, clean or replace the water filter if clogged.
+
+The refrigerator is not cooling properly. Common issues are dirty condenser coils, a faulty thermostat, or blocked air vents inside the fridge. Start by cleaning the condenser coils with a brush or vacuum. Check the thermostat settings and test with a thermometer. Clear any items blocking the internal air vents for proper circulation.
+
+The oven does not heat up when turned on. This can be caused by a broken heating element, a faulty temperature sensor, or an issue with the power supply. Test the heating element for continuity with a multimeter. Check the temperature sensor resistance. Verify the power outlet and circuit breaker are functioning properly.
+
+The dishwasher leaves dishes dirty. This may be due to a clogged spray arm, low water pressure, or using too little detergent. Remove and clean the spray arms thoroughly. Check water pressure at the kitchen sink. Use the recommended amount of detergent for your water hardness level.
+
+The dryer is running but clothes stay wet. Possible reasons include a blocked vent, a broken heating element, or overloading the machine. Clean the lint filter and exhaust vent completely. Test the heating element with a multimeter. Reduce load size for better air circulation.
+
+The microwave is not heating food. Common causes include a faulty magnetron, blown door switch, or damaged high-voltage capacitor. This requires professional repair due to high voltage components. Check if the turntable is rotating and the light works to isolate the issue.
+
+The garbage disposal is jammed. This typically happens from foreign objects, grease buildup, or worn blades. Turn off power and use an Allen wrench in the bottom center to manually turn the motor. Remove visible obstructions with tongs. Run cold water and ice cubes to clean the blades.
+
+The air conditioner is not cooling. Possible issues include dirty filters, low refrigerant, or frozen coils. Replace or clean the air filter monthly. Check for ice on the evaporator coils and defrost if needed. Low refrigerant requires professional service.
+
+The washing machine makes loud noises during spin cycle. Common causes are unbalanced loads, worn drum bearings, or loose parts. Redistribute clothes evenly in the drum. Check for coins or objects in the drum. Worn bearings require professional replacement.
+
+The refrigerator is making strange noises. This could be due to a faulty compressor, condenser fan motor issues, or ice buildup. Clean dust from the condenser coils and fan. Check if the noise stops when opening the freezer door to identify fan issues. Defrost if excessive ice is present.
+
+The dishwasher is not draining water. Typical causes include a clogged garbage disposal, blocked drain hose, or faulty drain pump. Run the garbage disposal first if connected. Check and clear the drain hose for clogs. Clean the dishwasher filter at the bottom of the tub.
+
+The electric stove burner is not heating. This may be caused by a faulty burner element, bad receptacle, or control switch problem. Try swapping burners to isolate the issue. Check the burner receptacle for damage or corrosion. Test with a multimeter if comfortable with electrical work.
+
+The toilet keeps running after flushing. Common issues are a faulty flapper valve, incorrect water level, or damaged fill valve. Inspect and replace the flapper if worn. Adjust the float to set proper water level. Clean or replace the fill valve if minerals have built up.
+
+The water heater is not producing hot water. Possible causes include a tripped breaker, faulty heating element, or broken thermostat. Check the circuit breaker and reset if needed. Test heating elements with a multimeter. Verify thermostat settings are correct (120°F recommended).
+
+The vacuum cleaner has lost suction. This typically results from a full bag or canister, clogged filters, or blocked hose. Empty or replace the bag/canister. Clean or replace all filters according to manufacturer instructions. Check the hose and attachments for blockages.
