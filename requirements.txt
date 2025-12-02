@@ -1,0 +1,8 @@
+sentence-transformers
+chromadb
+transformers
+torch
+fastapi
+uvicorn
+streamlit
+requests

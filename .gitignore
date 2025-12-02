@@ -1,0 +1,17 @@
+# Environnements virtuels
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# Streamlit cache
+.streamlit/
+
+# IDE
+.vscode/
+.idea/
